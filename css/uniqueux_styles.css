@@ -1,0 +1,20 @@
+.uniqueux_tabs > div{
+	display: none;
+	border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-top: 0px !important;
+    padding: 10px;
+}
+
+.uniqueux_tabs > div:nth-child(2){
+	display: block;
+}
+
+.uniqueux_tabs .green{
+	color:green;
+}
+
+.uniqueux_tabs .red{
+	color:red;
+}
